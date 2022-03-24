@@ -1,3 +1,3 @@
 # \#tidytuesday
 
-Submissions for _tidytuesday_ data project.__
+Submissions for _tidytuesday_ data project.
